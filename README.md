@@ -16,3 +16,8 @@ Fonctions externes autorisées :
 
 Plus d'info dans subject.
 
+
+![map](https://github.com/Sarioglu-Fatih/Cub3d/assets/111273279/a977174d-c3d5-46a2-b200-21d270aa05d6)
+
+
+![game](https://github.com/Sarioglu-Fatih/Cub3d/assets/111273279/a48b825e-9383-4e52-a099-3d737afe17cf)
