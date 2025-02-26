@@ -14,7 +14,6 @@ Fonctions externes autorisées :
 	• Toutes les fonctions de la
 	MinilibX
 
-Plus d'info dans subject.
 
 
 ![map](https://github.com/Sarioglu-Fatih/Cub3d/assets/111273279/a977174d-c3d5-46a2-b200-21d270aa05d6)
